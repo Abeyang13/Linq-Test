@@ -10,6 +10,7 @@ namespace LinqProblemSolving
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
